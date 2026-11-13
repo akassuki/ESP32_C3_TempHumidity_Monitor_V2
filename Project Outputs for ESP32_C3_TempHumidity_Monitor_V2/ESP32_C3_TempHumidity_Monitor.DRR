@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32_C3_TempHumidity_Monitor.PcbDoc   11/13/2026  4:11:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32_C3_TempHumidity_Monitor-RoundHoles.TXT
+ASCII SlotHoles File : ESP32_C3_TempHumidity_Monitor-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             341       PTH        973.36mm (38.32inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.17mm (1.50inch)
+T3      0.9mm (35mil)                                             Round             10        PTH        71.64mm (2.82inch)
+T4      1.092mm (43mil)                                           Round             13        PTH        34.29mm (1.35inch)
+T5      1.5mm (59mil)                                             Round             10        PTH        47.03mm (1.85inch)
+T6      2.75mm (108mil)                                           Round             4         PTH        191.93mm (7.56inch)
+T7      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              384
+
+Total Processing Time (hh:mm:ss) : 00:00:00
